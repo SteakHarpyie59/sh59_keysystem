@@ -19,6 +19,15 @@ This FiveM resource allows players to manage their vehicle keys.
 - ESX (should work with every version)
 - mysql-async
 
+#### Important Note
+This script provides only the Key Management system.
+- You have to code the function of the vehicle keys in your scripts (e.g. carlock, garage, etc.) by yourself using the callbacks and events.
+- I am already working on a version of esx_carlock, which will be compatible with this resource.
+
+## Reporting Bugs / Feature Request
+To report bugs or request features, please use the Issuses tab.
+Please keep in mind that I'm developing this resource as a hobby project, so I can't work on it 24/7.
+
 ## Documentation
 ### ESX Server Callbacks
 
