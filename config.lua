@@ -5,8 +5,8 @@ Config.OpenMenuKey      = 57 -- In this case: 57 = F10
 
 -- Discord Logging System
 Config.LogEveryAction   = true -- if True, the script will log every major Action (Like Changing Vehicle Owner or Adding/Removing Keys)
-Config.WebhookLink      = "https://discord.com/api/webhooks/1061635834991882302/wkLzYbCwNI9K7kEEmqjpYXR07kfSreZv5rdTgDr8ZgU42ny8Z68k6PjqKvfS-cTHTDAn"
-Config.WebhookAvatar    = "https://cdn.discordapp.com/attachments/955021102529282128/1032321918105309272/SGRP_SW_LOL.png"
+Config.WebhookLink      = ""
+Config.WebhookAvatar    = "https://cdn.discordapp.com/attachments/740181121794572308/1064228524786983052/log.png"
 
 -- Key Shop
 Config.KeyPrice         = 10 
