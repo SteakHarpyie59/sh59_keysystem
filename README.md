@@ -3,7 +3,7 @@ This FiveM resource allows players to manage their vehicle keys.
 
 ## Overview
 #### Showcase Video
-[SOON]
+https://youtu.be/YqnhZakHxKA
 
 #### Features
 - Transfer master-keys to other players
