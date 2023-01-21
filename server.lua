@@ -33,6 +33,11 @@ ESX.RegisterServerCallback('sh59_KeySystem:CheckIfShared', function(playerId, cb
             ['@plate'] = plate
         }, function(result)
             for _,v in pairs(result) do
+					
+		if next(result) == nil then
+                	cb(false)
+            	end
+					
                 if v.user == PlayerIdent and v.plate == plate then
                     cb(true)
                 else
