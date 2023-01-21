@@ -12,7 +12,7 @@ This FiveM resource allows players to manage their vehicle keys.
 - Transfer keys to other players
 - Easy Configuration (config.lua)
 - Discord Logging (Optional)
-- Ecallbacks and events to implement in other scripts (e.g. carlock, garage, etc.)
+- ESX callbacks and events to implement in other scripts (e.g. carlock, garage, etc.)
 
 
 #### Requirements
