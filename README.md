@@ -52,6 +52,10 @@ Please keep in mind that I'm developing this resource as a hobby project, so I c
 - *Gives a Key to a Player.*
 - **args:** playerID + plate
 
+#### sh59_KeySystem:RemoveKey
+- *Removes a Key from a Player.*
+- **args:** playerID + plate
+
 #### sh59_KeySystem:RemoveMoney
 - *Removes money from a Player.*
 - **args:** playerID + amount
