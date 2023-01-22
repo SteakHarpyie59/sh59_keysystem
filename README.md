@@ -21,7 +21,9 @@ This FiveM resource allows players to manage their vehicle keys.
 #### Important Note
 This script provides only the Key Management system.
 - You have to code the function of the vehicle keys in your scripts (e.g. carlock, garage, etc.) by yourself using the callbacks and events.
-- Here is a esx_carlock fork, which already works with sh59_keysystem: [esx_carlock](https://github.com/SteakHarpyie59/esx_carlock)
+- Here are some scripts, that are compatible with SH59_Keysystem:
+- [esx_carlock (optimized fork)](https://github.com/SteakHarpyie59/esx_carlock)
+- [sh59_garage](https://github.com/SteakHarpyie59/sh59_garage)
 
 ## Reporting Bugs / Feature Request
 To report bugs or request features, please use the Issuses tab.
