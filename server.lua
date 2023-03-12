@@ -1,6 +1,3 @@
-ESX = nil
-TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
-
 
 ESX.RegisterServerCallback('sh59_KeySystem:GetSharedCars', function(playerId, cb)
     local xPlayer       = ESX.GetPlayerFromId(playerId)
