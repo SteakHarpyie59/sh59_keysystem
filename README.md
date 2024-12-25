@@ -1,3 +1,4 @@
+> NEW VERSION AVAILIBLE: [SH59 Keysystem V2](https://github.com/SteakHarpyie59/sh59_keysystem_V2)
 # SH59_Keysystem
 This FiveM resource allows players to manage their vehicle keys.
 
